@@ -34,15 +34,15 @@ Demonstrates:
 
 ---
 
-### 🧠 NeuroForecast — Probabilistic Clinical Forecasting
-Deterministic, baseline-anchored forecasting framework for Phase 2/3 neurological trials with structured evidence weighting, locked probabilities, and calibration tracking.
+### 🧪 Eval — Clinical AI Evaluation Sandbox
+Safety-oriented evaluation harness for testing LLM behavior in simulated clinical decision-support workflows with structured scoring, failure detection, and deployment-style risk signals.
 
 Demonstrates:
-- Base-rate anchored probabilistic reasoning  
-- Explicit version control and governance discipline  
-- Immutable prediction locking  
-- Brier score calibration tracking  
-- Structured model evolution  
+- LLM evaluation design for healthcare workflows  
+- Safety-focused clinical AI testing  
+- Structured failure mode detection  
+- Deployment-gate thinking for model release  
+- Product architecture for AI validation systems  
 
 ---
 
