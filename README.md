@@ -1,85 +1,61 @@
 # Nicholas Leko
 
-Building safety-constrained predictive systems in healthcare.
+Healthcare AI builder focused on **workflow automation, interpretable ML, and evaluation safety**.
 
-My work focuses on structured decision systems that prioritize:
-- Calibration over confidence  
-- Governance over complexity  
-- Explicit assumptions over black-box modeling  
-- Long-term accountability over short-term accuracy  
+I build healthcare AI projects that are **scoped, explainable, and honest about their limits**. My portfolio is centered on three layers of the stack:
 
----
+- **Workflow support**
+- **Interpretable prediction**
+- **LLM evaluation and safety**
 
-## Featured Systems
+## Start here
 
-### 🏥 ICU Early Warning — Risk Prediction
-Machine learning pipeline for ICU cardiac arrest risk using eICU-CRD and structured feature engineering.
+### 1. [Prior Authorization Copilot](https://github.com/NickLeko/PriorAuthorizationCopilot)
+Safety-first administrative decision support for prior authorization readiness.
 
-Demonstrates:
-- Healthcare ML evaluation discipline  
-- Feature design under clinical constraints  
-- Transparent modeling workflow  
-- Explicit scope and limitations  
+**What it shows**
+- Healthcare workflow realism
+- Deterministic scope boundaries
+- Requirement-level evidence mapping
+- Governance and policy-drift awareness
 
----
+### 2. [ICU Early Warning](https://github.com/NickLeko/icu-code-blue-early-warning)
+Interpretable ICU deterioration-risk modeling built as a reproducible scientific artifact.
 
-### 🧾 Prior Authorization Copilot — Workflow AI
-Deterministic, rules-first administrative decision-support system for prior authorization readiness.
+**What it shows**
+- Transparent ML in a healthcare setting
+- Reproducibility and maintenance discipline
+- Honest evaluation and artifact governance
+- Controlled use of AI coding tools around sensitive ML logic
 
-Demonstrates:
-- Separation of deterministic logic from AI explanation  
-- Documentation completeness auditing  
-- Auditability and refusal semantics  
-- Safety-first LLM integration  
+### 3. [Clinical AI Eval Sandbox](https://github.com/NickLeko/clinical-AI-eval_sandbox)
+A safety-focused evaluation harness for clinical-style LLM outputs.
 
----
+**What it shows**
+- Faithfulness and citation-aware evaluation
+- Uncertainty and refusal analysis
+- Failure interpretation over model hype
+- Benchmark discipline and clear non-claims
 
-### 🧪 Eval — Clinical AI Evaluation Sandbox
-Safety-oriented evaluation harness for testing LLM behavior in simulated clinical decision-support workflows with structured scoring, failure detection, and deployment-style risk signals.
+## What ties these projects together
 
-Demonstrates:
-- LLM evaluation design for healthcare workflows  
-- Safety-focused clinical AI testing  
-- Structured failure mode detection  
-- Deployment-gate thinking for model release  
-- Product architecture for AI validation systems  
+Across all three projects, the common thread is the same:
 
----
+- **Narrow, defensible scope**
+- **Explainable system behavior**
+- **Strong documentation and reviewer clarity**
+- **Reproducibility and maintenance boundaries**
+- **Healthcare AI judgment over generic demos**
 
-## Supporting Clinical Workflow Systems
+## Current focus
 
-Additional applied healthcare AI systems across:
-- Clinical intake summarization  
-- Deterministic care routing  
-- Preventive risk prioritization  
+- Healthcare AI product management
+- Admin workflow automation
+- LLM evaluation and safety
+- Interpretable ML in clinical settings
+- Building portfolio artifacts that are useful in real workflows, not just technically interesting
 
-These projects explore architectural trade-offs in healthcare AI deployment across the care continuum.
+## Contact
 
----
-
-## Design Philosophy
-
-I build systems that:
-
-- Lock decisions before outcomes are known  
-- Version structural assumptions  
-- Expose errors instead of hiding them  
-- Prefer deterministic structure where appropriate  
-- Use ML/LLMs selectively within governed boundaries  
-
-Healthcare AI fails most often from poor calibration and silent assumption drift.  
-My focus is building systems where those risks are explicit.
-
----
-
-## Current Focus Areas
-
-- Predictive modeling in clinical settings  
-- Probabilistic forecasting and calibration  
-- Deterministic governance layers for AI systems  
-- Safety-constrained LLM integration  
-- Clinical workflow optimization  
-
----
-
-This profile is intentionally curated to showcase structured healthcare AI systems rather than exploratory prototypes.
+- [LinkedIn](www.linkedin.com/in/nicholas-leko)
+- [GitHub Repositories](https://github.com/NickLeko?tab=repositories)
