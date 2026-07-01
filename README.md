@@ -57,5 +57,5 @@ Across all three projects, the common thread is the same:
 
 ## Contact
 
-- [LinkedIn](www.linkedin.com/in/nicholas-leko)
+- [LinkedIn](https://www.linkedin.com/in/nicholas-leko/)
 - [GitHub Repositories](https://github.com/NickLeko?tab=repositories)
