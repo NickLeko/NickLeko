@@ -104,11 +104,3 @@ I have worked across healthcare operations, payer workflows, clinical intake, an
 
 This background shapes the way I build: not as abstract AI demos, but as workflow artifacts designed around real operational failure points.
 
----
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/nicholas-leko/) · 
-[GitHub Repositories](https://github.com/NickLeko?tab=repositories) · 
-[nicholas.leko99@gmail.com](mailto:nicholas.leko99@gmail.com)
-
