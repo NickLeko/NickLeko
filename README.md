@@ -18,8 +18,6 @@ Most prior authorization friction is operational before it is clinical: missing 
 
 This project is a deterministic readiness workflow that checks prior-auth documentation against versioned payer rules before submission. It uses requirement-level evidence mapping, structured review states, audit artifacts, and refusal-first logic.
 
-**What it demonstrates:** healthcare workflow judgment, payer-rule modeling, operational risk framing, and governance-aware product design.
-
 **Key features**
 
 * READY / NOT_READY / CANNOT_DETERMINE review states
