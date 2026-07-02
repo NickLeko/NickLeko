@@ -32,9 +32,8 @@ This project is a deterministic readiness workflow that checks prior-auth docume
 
 **Tech:** Python, FastAPI, Streamlit, YAML rules engine
 
-<!-- Add screenshot once available -->
 
-<!-- ![Prior Auth Readiness Copilot screenshot](assets/prior-auth-readiness-screenshot.png) -->
+![Prior Authorization Readiness Copilot showing a CANNOT_DETERMINE result with explicit missing-documentation blockers](assets/readme/prior-auth-readiness-demo.png)
 
 ---
 
