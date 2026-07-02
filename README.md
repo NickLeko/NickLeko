@@ -108,23 +108,6 @@ This background shapes the way I build: not as abstract AI demos, but as workflo
 
 ---
 
-## Portfolio thesis
-
-Healthcare AI does not win because a model produces impressive outputs in isolation.
-
-It wins when the product:
-
-* Fits the actual workflow
-* Handles missing or ambiguous information safely
-* Produces reviewable artifacts
-* Respects regulatory and operational constraints
-* Makes handoffs easier, not harder
-* Improves the decision process without pretending to replace clinical or operational judgment
-
-That is the thread across this portfolio.
-
----
-
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/nicholas-leko/) · 
