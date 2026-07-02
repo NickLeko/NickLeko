@@ -30,7 +30,7 @@ This project is a deterministic readiness workflow that checks prior-auth docume
 
 **Tech:** Python, FastAPI, Streamlit, YAML rules engine
 
-![Prior Authorization Readiness Copilot showing a CANNOT_DETERMINE result with missing-documentation blockers](https://raw.githubusercontent.com/NickLeko/PriorAuthorizationCopilot/main/assets/readme/prior-auth-readiness-demo.png)
+![Prior Authorization Readiness Copilot showing a CANNOT_DETERMINE result with missing-documentation blockers](assets/readme/prior-auth-readiness-demo.png)
 
 ---
 
