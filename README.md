@@ -157,7 +157,7 @@ These are self-directed prototypes and research artifacts, not deployed clinical
 I came into AI from healthcare operations rather than software engineering.
 
 * **Stryker:** AED program administration, operational readiness, compliance workflows, customer onboarding, field-issue synthesis, and platform feedback across 300+ enterprise AED programs.
-* **Blue Cross Blue Shield of Texas:** Small-group payer account management within a team supporting 60,000+ employer accounts, with exposure to retention strategy, claims/CRM analysis, HIPAA-aware operations, and payer-provider friction.
+* **Blue Cross Blue Shield of Texas:** Blue Cross Blue Shield of Texas: Small-group payer account management within a team supporting 60,000+ employer accounts, with broker/admin communication, renewals, documentation, CRM workflows, and HIPAA-aware operations.
 * **HCA Los Robles Hospital:** Emergency-department registration, patient intake, documentation workflows, and high-acuity operational environments.
 * **Ventura Orthopedics:** Physical-therapy operations, scheduling, documentation support, and care coordination.
 
